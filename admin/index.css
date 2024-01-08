@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.admin-img{
+    width: 100%;
+    object-fit: cover;
+}
+.btn-ra{
+    width: 100%;
+    border: 0;
+}
+.view-img{
+    width: 100px;
+    object-fit: scale-down;
+
+}
+.user-img{
+    width: 10%;
+}
+.navbar{
+    width :101%;
+}

@@ -1,0 +1,9 @@
+SERVER
+Model (mongoose schema)
+Controller (req body data – validation & unique ,hash)
+Index.js (mongoose connect - express, cors)
+CLIENT
+Hooks (useState, useEffect)
+LocalStorage (set, get, store)
+handleSubmit
+handleChange
